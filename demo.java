@@ -1,5 +1,5 @@
 class demo{
 	public static void main(){
-		System.out.println("Demo from java code");
+		System.out.println("hate u git");
 	}
 }
